@@ -1,0 +1,23 @@
+body{
+    background-color: #cca2ff;
+    form{
+        background-color: #ffcca2;
+        color: #cca2ff;
+    }
+
+    h1{
+        color: #a2ffcc;
+    }
+
+    .soulign{
+        display: flex;
+
+        .cercle{
+            height: 30px;
+            width: 30px;
+            border-radius: 50%;
+            background-color: #a2ffcc;
+            margin: 10px;
+        }
+    }
+}

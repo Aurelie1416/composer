@@ -1,0 +1,27 @@
+body {
+  background-color: #cca2ff;
+}
+
+body form {
+  background-color: #ffcca2;
+  color: #cca2ff;
+}
+
+body h1 {
+  color: #a2ffcc;
+}
+
+body .soulign {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+body .soulign .cercle {
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
+  background-color: #a2ffcc;
+  margin: 10px;
+}
+/*# sourceMappingURL=style.css.map */
